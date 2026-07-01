@@ -1,17 +1,12 @@
 # Virtual environment
 my_env/
 
+# Claude directory
+.claude/
+
 # Python cache
 __pycache__/
 *.py[cod]
 
 # Environment variables
 .env
-
-# IDE files
-.vscode/
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
